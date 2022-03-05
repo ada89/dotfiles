@@ -1,4 +1,6 @@
 export PATH="$HOME/.jenv/bin:$PATH"
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 eval "$(jenv init -)"
 alias ll="ls -arthl"
 alias cdv="cd /Users/d064039/workspace/vertx-btp"
+alias coden="code -n"
